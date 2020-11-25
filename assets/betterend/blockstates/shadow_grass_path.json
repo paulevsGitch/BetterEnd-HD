@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": [
+			{ "model": "betterend:block/shadow_grass_path" }
+		]
+	}
+}

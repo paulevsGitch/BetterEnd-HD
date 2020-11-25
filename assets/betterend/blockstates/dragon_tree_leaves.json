@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "betterend:block/dragon_tree_leaves" },
+			{ "model": "betterend:block/dragon_tree_leaves", "y": 90 },
+			{ "model": "betterend:block/dragon_tree_leaves", "y": 180 },
+			{ "model": "betterend:block/dragon_tree_leaves", "y": 270 },
+			{ "model": "betterend:block/dragon_tree_leaves_mirrored" },
+			{ "model": "betterend:block/dragon_tree_leaves_mirrored", "y": 90 },
+			{ "model": "betterend:block/dragon_tree_leaves_mirrored", "y": 180 },
+			{ "model": "betterend:block/dragon_tree_leaves_mirrored", "y": 270 }
+		]
+    }
+}
